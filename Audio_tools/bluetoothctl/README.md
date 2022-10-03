@@ -1,4 +1,9 @@
-#### Systemd bletooth system service
+### Bluetoothctl
+https://wiki.archlinux.org/title/bluetooth
+
+#### Systemd bluetooth system service
+
+Service bluetooth is a part of systemd.
 
 	$ systemctl status bluetooth
 	● bluetooth.service - Bluetooth service

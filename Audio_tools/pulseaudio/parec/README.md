@@ -1,4 +1,8 @@
 ### Pulse audio recorder
+https://manpages.debian.org/experimental/pulseaudio-utils/parec.1.en.html
+
+### parec-simple.c. A simple recording tool using the simple API. Part of PulseAudio.
+http://0pointer.de/lennart/projects/pulseaudio/doxygen/parec-simple_8c-example.html
 
 #### parec --help
 ```
